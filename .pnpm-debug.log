@@ -1,0 +1,20 @@
+{
+  "0 debug pnpm:scope": {
+    "selected": 1
+  },
+  "1 error pnpm": {
+    "shortMessage": "Command failed with exit code 1: /private/var/folders/94/99wchjqd3cgdgbd6svhtvmwr0000gn/T/dlx-97342/bin/create-astro",
+    "command": "/private/var/folders/94/99wchjqd3cgdgbd6svhtvmwr0000gn/T/dlx-97342/bin/create-astro",
+    "escapedCommand": "\"/private/var/folders/94/99wchjqd3cgdgbd6svhtvmwr0000gn/T/dlx-97342/bin/create-astro\"",
+    "exitCode": 1,
+    "failed": true,
+    "timedOut": false,
+    "isCanceled": false,
+    "killed": false,
+    "err": {
+      "name": "pnpm",
+      "message": "Command failed with exit code 1: /private/var/folders/94/99wchjqd3cgdgbd6svhtvmwr0000gn/T/dlx-97342/bin/create-astro",
+      "stack": "pnpm: Command failed with exit code 1: /private/var/folders/94/99wchjqd3cgdgbd6svhtvmwr0000gn/T/dlx-97342/bin/create-astro\n    at makeError (/Users/user/.volta/tools/image/node/16.13.2/pnpm-global/5/node_modules/.pnpm/pnpm@6.28.0/node_modules/pnpm/dist/pnpm.cjs:42412:17)\n    at handlePromise (/Users/user/.volta/tools/image/node/16.13.2/pnpm-global/5/node_modules/.pnpm/pnpm@6.28.0/node_modules/pnpm/dist/pnpm.cjs:42983:33)\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n    at async Object.handler (/Users/user/.volta/tools/image/node/16.13.2/pnpm-global/5/node_modules/.pnpm/pnpm@6.28.0/node_modules/pnpm/dist/pnpm.cjs:176970:7)\n    at async /Users/user/.volta/tools/image/node/16.13.2/pnpm-global/5/node_modules/.pnpm/pnpm@6.28.0/node_modules/pnpm/dist/pnpm.cjs:181595:21\n    at async run (/Users/user/.volta/tools/image/node/16.13.2/pnpm-global/5/node_modules/.pnpm/pnpm@6.28.0/node_modules/pnpm/dist/pnpm.cjs:181569:34)\n    at async runPnpm (/Users/user/.volta/tools/image/node/16.13.2/pnpm-global/5/node_modules/.pnpm/pnpm@6.28.0/node_modules/pnpm/dist/pnpm.cjs:181780:5)\n    at async /Users/user/.volta/tools/image/node/16.13.2/pnpm-global/5/node_modules/.pnpm/pnpm@6.28.0/node_modules/pnpm/dist/pnpm.cjs:181772:7"
+    }
+  }
+}
